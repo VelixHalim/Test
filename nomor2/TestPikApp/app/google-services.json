@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1036225035694",
+    "project_id": "testpikapp",
+    "storage_bucket": "testpikapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036225035694:android:7d9a27384388d4122f5c3f",
+        "android_client_info": {
+          "package_name": "com.velix.testpikapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036225035694-bmp5ua4radtvitf9c91dvi0dml2q848k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX2LFGXIs_EJ_yABAIo7YMD9Gsm180_Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036225035694-bmp5ua4radtvitf9c91dvi0dml2q848k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
